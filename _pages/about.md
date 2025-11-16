@@ -39,7 +39,12 @@ I am interested in formal verification techniques for reliable intelligent syste
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``ICCV 2025`` [An inversion-based measure of memorization for diffusion models](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_An_Inversion-based_Measure_of_Memorization_for_Diffusion_Models_ICCV_2025_paper.html), **Zhe Ma**, Qingming Li, Xuhong Zhang, Tianyu Du, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen.
+- ``AAAI 2024`` [Let all be whitened: Multi-teacher distillation for efficient visual retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/28207), **Zhe Ma**, Jianfeng Dong, Shouling Ji, Zhenguang Liu, Xuhong Zhang, Zonghui Wang, Sifeng He, Feng Qian, Xiaobo Zhang, Lei Yang.
+- ``SIGIR 2023`` [From Region to Patch: Attribute-Aware Foreground-Background Contrastive Learning for Fine-Grained Fashion Retrieval](https://dl.acm.org/doi/abs/10.1145/3539618.3591690), Jianfeng Dong, Xiaoman Peng, **Zhe Ma**, Daizong Liu, Xiaoye Qu, Xun Yang, Jixiang Zhu, Baolong Liu.
+- ``TIP 2021`` [Fine-Grained Fashion Similarity Prediction by Attribute-Specific Embedding Learning](https://ieeexplore.ieee.org/abstract/document/9556133/), Jianfeng Dong, **Zhe Ma**, Xiaofeng Mao, Xun Yang, Yuan He, Richang Hong, Shouling Ji.
+- ``AAAI 2020`` [Fine-grained fashion similarity learning by attribute-specific embedding network](https://ojs.aaai.org/index.php/AAAI/article/view/6845), Jianfeng Dong, **Zhe Ma**, Jianfeng Dong, Zhongzi Long, Yao Zhang, Yuan He, Hui Xue, Shouling Ji.
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
