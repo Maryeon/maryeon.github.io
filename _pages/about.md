@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a lecturer at the School of Cyber Science and Engineering, Tianjin University, Tianjin, China. I obtained my doctoral degree at the College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Shouling Ji](https://person.zju.edu.cn/en/sji) and [Zonghui Wang](https://person.zju.edu.cn/en/zhwang).
-
+I am currently a lecturer at the School of Cyber Security, Tianjin University, Tianjin, China. I obtained my doctoral degree at the College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Shouling Ji](https://person.zju.edu.cn/en/sji) and [Zonghui Wang](https://person.zju.edu.cn/en/zhwang).
+I am interested in formal verification techniques for reliable intelligent systems. I am now working with some excellent people in a hardware security group led by Prof. [Yongqiang Lv](https://scholar.google.com/citations?user=YgM30QQAAAAJ&hl=en). We are looking for diligent Ph.D, M.S. or intern students to join us. Feel free to drop me an email if you are interested.
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 I joined the School of Cyber Science and Engineering at Tianjin University! 
 - *2025.06*: &nbsp;🎉🎉 My work "An Inversion-based Measure of Memorization" was accepted by ICCV 2025. 
 
-# 📝 Publications 
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,15 +42,15 @@ I am currently a lecturer at the School of Cyber Science and Engineering, Tianji
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.09*, Artifical Intelligence, Zhejiang University. 
+- *2015.09 - 2019.06*, B.E., Computer Science and Technology, Zhejiang University. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.02 - 2022.08*, Ant Group, China.
