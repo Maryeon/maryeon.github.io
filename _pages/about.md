@@ -21,8 +21,8 @@ I am currently a lecturer at the School of Cyber Science and Engineering, Tianji
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 I joined the School of Cyber Science and Engineering at Tianjin University! 
+- *2025.06*: &nbsp;🎉🎉 My work "An Inversion-based Measure of Memorization" was accepted by ICCV 2025. 
 
 # 📝 Publications 
 
