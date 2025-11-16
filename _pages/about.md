@@ -46,7 +46,7 @@ I am interested in formal verification techniques for reliable intelligent syste
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.09 - 2025.09*, Artifical Intelligence, Zhejiang University. 
+- *2020.09 - 2025.09*, Eng., Artifical Intelligence, Zhejiang University. 
 - *2015.09 - 2019.06*, B.E., Computer Science and Technology, Zhejiang University. 
 
 <!-- # 💬 Invited Talks
