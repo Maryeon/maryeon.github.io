@@ -22,6 +22,7 @@ I am currently an Assistant Processor at the College of Cyber Security, Tianjin 
 I am interested in formal verification techniques for reliable intelligent systems. I am now working with some excellent people in a hardware security group led by Prof. [Yongqiang Lyv](https://scholar.google.com/citations?user=YgM30QQAAAAJ&hl=en). We are looking for diligent Ph.D, M.S. or intern students to join us. Feel free to send me an email if you are interested.
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Our survey on LLM-agent security was accepted by TOSEM 2026 (CCF A)! 
 - *2025.10*: &nbsp;🎉🎉 I joined the College of Cyber Security at Tianjin University! 
 - *2025.06*: &nbsp;🎉🎉 My work "An inversion-based measure of memorization" was accepted by ICCV 2025. 
 
@@ -39,6 +40,7 @@ I am interested in formal verification techniques for reliable intelligent syste
 </div>
 </div> -->
 
+- ``TOSEM 2026`` [Navigating the Risks: A Survey of Security and Privacy Threats in LLM-Based Agents](https://arxiv.org/abs/2411.09523), Yuyou Gan, Yong Yang, **Zhe Ma**, Ping He, Rui Zeng, Yiming Wang, Qingming Li, Chunyi Zhou, Songze Li, Ting Wang, Yunjun Gao, Yingcai Wu, Shouling Ji.
 - ``ICCV 2025`` [An inversion-based measure of memorization for diffusion models](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_An_Inversion-based_Measure_of_Memorization_for_Diffusion_Models_ICCV_2025_paper.html), **Zhe Ma**, Qingming Li, Xuhong Zhang, Tianyu Du, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen.
 - ``AAAI 2024`` [Let all be whitened: Multi-teacher distillation for efficient visual retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/28207), **Zhe Ma**, Jianfeng Dong, Shouling Ji, Zhenguang Liu, Xuhong Zhang, Zonghui Wang, Sifeng He, Feng Qian, Xiaobo Zhang, Lei Yang.
 - ``SIGIR 2023`` [From Region to Patch: Attribute-Aware Foreground-Background Contrastive Learning for Fine-Grained Fashion Retrieval](https://dl.acm.org/doi/abs/10.1145/3539618.3591690), Jianfeng Dong, Xiaoman Peng, **Zhe Ma**, Daizong Liu, Xiaoye Qu, Xun Yang, Jixiang Zhu, Baolong Liu.
