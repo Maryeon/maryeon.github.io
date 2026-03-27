@@ -23,8 +23,8 @@ I am interested in formal verification techniques for reliable intelligent syste
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Our survey on LLM-agent security was accepted by TOSEM 2026 (CCF A)! 
-- *2025.10*: &nbsp;🎉🎉 I joined the College of Cyber Security at Tianjin University! 
-- *2025.06*: &nbsp;🎉🎉 My work "An inversion-based measure of memorization" was accepted by ICCV 2025. 
+- *2025.10*: &nbsp;🎉🎉 I joined the School of Cyber Security at Tianjin University! 
+- *2025.06*: &nbsp;🎉🎉 My work "An inversion-based measure of memorization" was accepted by ICCV 2025.
 
 # 📝 Publications 
 
