@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Processor at the College of Cyber Security, Tianjin University, Tianjin, China. I obtained my doctoral degree at the College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Shouling Ji](https://person.zju.edu.cn/en/sji) and [Zonghui Wang](https://person.zju.edu.cn/en/zhwang).
+I am currently an Assistant Processor at the School of Cyber Security, Tianjin University, Tianjin, China. I obtained my doctoral degree at the College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Shouling Ji](https://person.zju.edu.cn/en/sji) and [Zonghui Wang](https://person.zju.edu.cn/en/zhwang).
 
 I am interested in formal verification techniques for reliable intelligent systems. I am now working with some excellent people in a hardware security group led by Prof. [Yongqiang Lyv](https://scholar.google.com/citations?user=YgM30QQAAAAJ&hl=en). We are looking for diligent Ph.D, M.S. or intern students to join us. Feel free to send me an email if you are interested.
 
