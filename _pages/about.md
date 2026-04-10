@@ -41,7 +41,7 @@ I am interested in formal verification techniques for reliable intelligent syste
 </div>
 </div> -->
 
-- ``Medical Image Analysis 2026`` Fine-grained and multi-pattern anti-nuclear antibody recognition: A new dataset and framework, Chunfang Ma, Yichen Yan, **Zhe Ma**, Kangming Liang, Kaiying Fan, Weidong Jin, Xiyuan Zhang, Zonghui Wang, Yasong Li.
+- ``Medical Image Analysis 2026`` Fine-grained and multi-pattern anti-nuclear antibody recognition: A new dataset and framework, Chunfang Ma, Yichen Yan, **Zhe Ma***, Kangming Liang, Kaiying Fan, Weidong Jin, Xiyuan Zhang, Zonghui Wang, Yasong Li*.
 - ``TOSEM 2026`` [Navigating the Risks: A Survey of Security and Privacy Threats in LLM-Based Agents](https://arxiv.org/abs/2411.09523), Yuyou Gan, Yong Yang, **Zhe Ma**, Ping He, Rui Zeng, Yiming Wang, Qingming Li, Chunyi Zhou, Songze Li, Ting Wang, Yunjun Gao, Yingcai Wu, Shouling Ji.
 - ``ICCV 2025`` [An Inversion-based Measure of Memorization for Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_An_Inversion-based_Measure_of_Memorization_for_Diffusion_Models_ICCV_2025_paper.html), **Zhe Ma**, Qingming Li, Xuhong Zhang, Tianyu Du, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen.
 - ``AAAI 2024`` [Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/28207), **Zhe Ma**, Jianfeng Dong, Shouling Ji, Zhenguang Liu, Xuhong Zhang, Zonghui Wang, Sifeng He, Feng Qian, Xiaobo Zhang, Lei Yang.
