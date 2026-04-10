@@ -22,6 +22,7 @@ I am currently an Assistant Processor at the School of Cyber Security, Tianjin U
 I am interested in formal verification techniques for reliable intelligent systems. I am now working with some excellent people in a hardware security group led by Prof. [Yongqiang Lyv](https://scholar.google.com/citations?user=YgM30QQAAAAJ&hl=en). We are looking for diligent Ph.D, M.S. or intern students to join us. Feel free to send me an email if you are interested.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Our paper on anti-nuclear antibody recognition was accepted by Medical Image Analysis (JCR Q1)!
 - *2026.03*: &nbsp;🎉🎉 Our survey on LLM-agent security was accepted by TOSEM 2026 (CCF A)! 
 - *2025.10*: &nbsp;🎉🎉 I joined the School of Cyber Security at Tianjin University! 
 - *2025.06*: &nbsp;🎉🎉 My work "An inversion-based measure of memorization" was accepted by ICCV 2025.
@@ -40,6 +41,8 @@ I am interested in formal verification techniques for reliable intelligent syste
 </div>
 </div> -->
 
+- ``Medical Image Analysis 2026`` Fine-grained and multi-pattern anti-nuclear antibody recognition: A new dataset and framework, Chunfang Ma, Yichen Yan, **Zhe Ma**, Kangming Liang, Kaiying Fan, Weidong Jin, Xiyuan Zhang, Zonghui Wang, Yasong Li.
+- ``ICCV 2025`` [An Inversion-based Measure of Memorization for Diffusion Models]
 - ``TOSEM 2026`` [Navigating the Risks: A Survey of Security and Privacy Threats in LLM-Based Agents](https://arxiv.org/abs/2411.09523), Yuyou Gan, Yong Yang, **Zhe Ma**, Ping He, Rui Zeng, Yiming Wang, Qingming Li, Chunyi Zhou, Songze Li, Ting Wang, Yunjun Gao, Yingcai Wu, Shouling Ji.
 - ``ICCV 2025`` [An Inversion-based Measure of Memorization for Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_An_Inversion-based_Measure_of_Memorization_for_Diffusion_Models_ICCV_2025_paper.html), **Zhe Ma**, Qingming Li, Xuhong Zhang, Tianyu Du, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen.
 - ``AAAI 2024`` [Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/28207), **Zhe Ma**, Jianfeng Dong, Shouling Ji, Zhenguang Liu, Xuhong Zhang, Zonghui Wang, Sifeng He, Feng Qian, Xiaobo Zhang, Lei Yang.
