@@ -22,7 +22,7 @@ I am currently an Assistant Processor at the School of Cyber Security, Tianjin U
 I am interested in formal verification techniques for reliable intelligent systems. I am now working with some excellent people in the HiSec (hardware and intelligence security) group led by Prof. [Yongqiang Lyv](https://scholar.google.com/citations?user=YgM30QQAAAAJ&hl=en). We are looking for diligent Ph.D, M.S. or intern students to join us. Feel free to send me an email if you are interested.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Our paper on poisoning text-to-image models was accepted by S&P (CCF A)!
+- *2026.06*: &nbsp;🎉🎉 Our paper on poisoning text-to-image models was accepted by S&amp;P (CCF A)!
 - *2026.04*: &nbsp;🎉🎉 Our paper on anti-nuclear antibody recognition was accepted by Medical Image Analysis (JCR Q1)!
 - *2026.03*: &nbsp;🎉🎉 Our survey on LLM-agent security was accepted by TOSEM 2026 (CCF A)! 
 - *2025.10*: &nbsp;🎉🎉 I joined the School of Cyber Security at Tianjin University! 
