@@ -19,12 +19,12 @@ redirect_from:
 
 I am currently an Assistant Processor at the School of Cyber Security, Tianjin University, Tianjin, China. I obtained my doctoral degree at the College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Shouling Ji](https://person.zju.edu.cn/en/sji) and [Zonghui Wang](https://person.zju.edu.cn/en/zhwang).
 
-I am interested in formal verification techniques for reliable intelligent systems. I am now working with some excellent people in the HiSec (hardware and intelligence security) group led by Prof. [Yongqiang Lyv](https://scholar.google.com/citations?user=YgM30QQAAAAJ&hl=en). We are looking for diligent Ph.D, M.S. or intern students to join us. Feel free to send me an email if you are interested.
+I am interested in practical security and formal verification techniques for reliable and trustworthy intelligent systems. I am now working with some excellent people in the HiSec (hardware and intelligence security) group led by Prof. [Yongqiang Lyv](https://scholar.google.com/citations?user=YgM30QQAAAAJ&hl=en). We are looking for diligent Ph.D, M.S. or intern students to join us. Feel free to send me an email if you are interested.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Our paper on poisoning text-to-image models was accepted by CCS 2026 (CCF A)!
-- *2026.04*: &nbsp;🎉🎉 Our paper on anti-nuclear antibody recognition was accepted by Medical Image Analysis (JCR Q1)!
-- *2026.03*: &nbsp;🎉🎉 Our survey on LLM-agent security was accepted by TOSEM 2026 (CCF A)! 
+- *2026.06*: &nbsp;🎉🎉 Our paper on poisoning text-to-image models was accepted by CCS 2026!
+- *2026.04*: &nbsp;🎉🎉 Our paper on anti-nuclear antibody recognition was accepted by Medical Image Analysis!
+- *2026.03*: &nbsp;🎉🎉 Our survey on LLM-agent security was accepted by TOSEM 2026! 
 - *2025.10*: &nbsp;🎉🎉 I joined the School of Cyber Security at Tianjin University! 
 - *2025.06*: &nbsp;🎉🎉 My work "An inversion-based measure of memorization" was accepted by ICCV 2025.
 
@@ -48,7 +48,6 @@ I am interested in formal verification techniques for reliable intelligent syste
 - ``ICCV 2025`` [An Inversion-based Measure of Memorization for Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_An_Inversion-based_Measure_of_Memorization_for_Diffusion_Models_ICCV_2025_paper.html), **Zhe Ma**, Qingming Li, Xuhong Zhang, Tianyu Du, Ruixiao Lin, Zonghui Wang, Shouling Ji, Wenzhi Chen.
 - ``AAAI 2024`` [Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/28207), **Zhe Ma**, Jianfeng Dong, Shouling Ji, Zhenguang Liu, Xuhong Zhang, Zonghui Wang, Sifeng He, Feng Qian, Xiaobo Zhang, Lei Yang.
 - ``SIGIR 2023`` [From Region to Patch: Attribute-Aware Foreground-Background Contrastive Learning for Fine-Grained Fashion Retrieval](https://dl.acm.org/doi/abs/10.1145/3539618.3591690), Jianfeng Dong, Xiaoman Peng, **Zhe Ma**, Daizong Liu, Xiaoye Qu, Xun Yang, Jixiang Zhu, Baolong Liu.
-- ``ICASSP 2021`` [Hierarchical Similarity Learning for Language-based Product Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9415007/), **Zhe Ma**, Fenghao Liu, Jianfeng Dong, Xiaoye Qu, Yuan He, Shouling Ji.
 - ``TIP 2021`` [Fine-Grained Fashion Similarity Prediction by Attribute-Specific Embedding Learning](https://ieeexplore.ieee.org/abstract/document/9556133/), Jianfeng Dong, **Zhe Ma**, Xiaofeng Mao, Xun Yang, Yuan He, Richang Hong, Shouling Ji.
 - ``AAAI 2020`` [Fine-grained Fashion Similarity Learning by Attribute-specific Embedding Network](https://ojs.aaai.org/index.php/AAAI/article/view/6845), **Zhe Ma**, Jianfeng Dong, Zhongzi Long, Yao Zhang, Yuan He, Hui Xue, Shouling Ji.
 
